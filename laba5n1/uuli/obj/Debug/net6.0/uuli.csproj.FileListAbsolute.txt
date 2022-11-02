@@ -1,0 +1,15 @@
+C:\Users\Pol1nka\source\repos\uuli\uuli\bin\Debug\net6.0\uuli.exe
+C:\Users\Pol1nka\source\repos\uuli\uuli\bin\Debug\net6.0\uuli.deps.json
+C:\Users\Pol1nka\source\repos\uuli\uuli\bin\Debug\net6.0\uuli.runtimeconfig.json
+C:\Users\Pol1nka\source\repos\uuli\uuli\bin\Debug\net6.0\uuli.dll
+C:\Users\Pol1nka\source\repos\uuli\uuli\bin\Debug\net6.0\uuli.pdb
+C:\Users\Pol1nka\source\repos\uuli\uuli\obj\Debug\net6.0\uuli.csproj.AssemblyReference.cache
+C:\Users\Pol1nka\source\repos\uuli\uuli\obj\Debug\net6.0\uuli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pol1nka\source\repos\uuli\uuli\obj\Debug\net6.0\uuli.AssemblyInfoInputs.cache
+C:\Users\Pol1nka\source\repos\uuli\uuli\obj\Debug\net6.0\uuli.AssemblyInfo.cs
+C:\Users\Pol1nka\source\repos\uuli\uuli\obj\Debug\net6.0\uuli.csproj.CoreCompileInputs.cache
+C:\Users\Pol1nka\source\repos\uuli\uuli\obj\Debug\net6.0\uuli.dll
+C:\Users\Pol1nka\source\repos\uuli\uuli\obj\Debug\net6.0\refint\uuli.dll
+C:\Users\Pol1nka\source\repos\uuli\uuli\obj\Debug\net6.0\uuli.pdb
+C:\Users\Pol1nka\source\repos\uuli\uuli\obj\Debug\net6.0\uuli.genruntimeconfig.cache
+C:\Users\Pol1nka\source\repos\uuli\uuli\obj\Debug\net6.0\ref\uuli.dll
